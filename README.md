@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.curseforge.com/members/dnydd/projects">CurseForge</a> ·
   <a href="https://www.nexusmods.com/profile/Dnydd">Nexus Mods</a> ·
-  <a href="https://modrinth.com/user/DKLYNTLY">Modrinth</a> ·
+  <a href="https://modrinth.com/user/Dnydd">Modrinth</a> ·
   <a href="https://discord.com/invite/mUGHmQxHG8">Discord</a> ·
   <a href="https://www.youtube.com/@DKLYNTLY">YouTube</a>
 </p>
@@ -48,6 +48,6 @@ I welcome fixes submitted directly for my review under the project's contributio
 
 ## Support my work
 
-If you enjoy my projects, you can leave a tip on Ko-fi. Support is always optional.
+If you enjoy my projects, you can support my work through Ko-fi or PayPal. Support is always optional.
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A3G129JCLF)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A3G129JCLF) [![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/7ZKG8YG6GCERC)
