@@ -7,7 +7,7 @@
   <a href="https://www.nexusmods.com/profile/Dnydd">Nexus Mods</a> ·
   <a href="https://modrinth.com/user/Dnydd">Modrinth</a> ·
   <a href="https://discord.com/invite/mUGHmQxHG8">Discord</a> ·
-  <a href="https://www.youtube.com/@DKLYNTLY">YouTube</a>
+  <a href="https://www.youtube.com/@DnyddStudios">YouTube</a>
 </p>
 
 I'm Dnydd, formerly known as dklyntly. Modding is my hobby, and I enjoy making useful tools and new ways to play.
